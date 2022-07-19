@@ -4,4 +4,11 @@ This is just a <br>
 Testing tools...<br>
 For installing termux:
 
- $One command Installation: <br> apt install python -y; apt install git -y; git clone https://github.com/Murad-rhm/testing; cd testing; python3 project21.py
+ $One command Installation:<i> <br> 
+apt install python -y <br>
+apt install git -y <br>
+ git clone https://github.com/Murad-rhm/testing <br> 
+cd testing <br> 
+python3 project21.cpython-310.pyc
+
+<br> <i>
